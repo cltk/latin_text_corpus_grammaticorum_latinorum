@@ -1,2 +1,3 @@
-# latin_text_corpus_grammaticorum_latinorum
+# Latin text Corpus Grammaticorum Latinorum
+
 Collected Latin Data from Corpus Grammaticorum Latinorum 
